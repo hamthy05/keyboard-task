@@ -19,7 +19,7 @@ This is a responsive and customizable **Virtual Keyboard** built with **React.js
 ## 📂 Project Structure
 
 ```
-frontend/
+
 ├── public/
 │   ├── favicon.ico
 │   ├── index.html
